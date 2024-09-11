@@ -36,4 +36,9 @@ class Book
     {
         System.out.println(author);
     }
+    
+    public void printTitle()
+    {
+        System.out.println(title);
+    }
 }
