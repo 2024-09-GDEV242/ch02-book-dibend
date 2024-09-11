@@ -43,4 +43,9 @@ class Book
     {
         System.out.println(title);
     }
+    
+    public int getPages()
+    {
+        return pages;
+    }
 }
